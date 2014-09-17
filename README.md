@@ -14,3 +14,7 @@ JavaScript:
 * -Externe scripts onderaan de pagina inladen (boven de body tag)
 * -Gebruik comments in de code
 * -Constructor function met hoofdletter
+* -Gebruik een _ bij een private object (_privateObject)
+* 
+HTML
+*-Gebruik data-bind in plaats van id of class
